@@ -65,7 +65,7 @@ bash run.sh 4 12345 --model GET-B/2 --cond --resume CKPT_DIR/GET-B-cond-2M-data-
 
 ## Generative Performance
 
-You can see [the generative performance here](https://github.com/locuslab/get/blob/release/STAT.md). The discussion there might be interesting.
+You can see [the generative performance here](STAT.md). The discussion there might be interesting.
 
 ## Data Generation
 
